@@ -14,9 +14,9 @@ This is how your new project will look like:
     │
     ├── data
     │   ├── 0_raw                 <- The original, immutable data dump.
-    │   ├── 0_external            <- Data from third party sources.
-    │   ├── 1_interim             <- Intermediate data that has been transformed.
-    │   └── 2_final               <- The final, canonical data sets for modeling.
+    │   ├── 1_external            <- Data from third party sources.
+    │   ├── 2_interim             <- Intermediate data that has been transformed.
+    │   └── 3_final               <- The final, canonical data sets for modeling.
     │
     ├── docs                      <- GitHub pages website
     │   ├── data_dictionaries     <- Data dictionaries
