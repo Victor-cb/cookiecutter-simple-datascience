@@ -1,9 +1,11 @@
 # Cookiecutter Modern Data Science
 [Cookiecutter] template for starting a Data Science project.
-
+To install it:
+1. pip install cookiecutter
+2. cookiecutter https://github.com/Victor-cb/cookiecutter-simple-datascience.git
 ## Directory structure
 
-This is our your new project will look like:
+This is how your new project will look like:
 
     ├── .gitignore                <- GitHub's excellent Python .gitignore customized for this project
     ├── LICENSE                   <- Your project's license.
